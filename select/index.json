@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Final Round",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-03-26T01:16:11.152497Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "決戦 the Final Round",
+      "artist": "JAM Project",
+      "has_synced": true,
+      "path": "select/01_決戦_the_Final_Round_JAM_Project.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Final Round",
+      "artist": "Annisokay",
+      "has_synced": true,
+      "path": "select/02_The_Final_Round_Annisokay.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Final Round - HoppiTronic Remix",
+      "artist": "Annisokay",
+      "has_synced": false,
+      "path": "select/03_The_Final_Round_-_HoppiTronic_Remix_Annisokay.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Final Round",
+      "artist": "Madball",
+      "has_synced": true,
+      "path": "select/04_Final_Round_Madball.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ice Cold (Final Round)",
+      "artist": "Mike WiLL Made-It feat. Vince Staples & Ludwig Göransson",
+      "has_synced": true,
+      "path": "select/05_Ice_Cold_(Final_Round)_Mike_WiLL_Made-It_feat._Vince_Staples_&_Ludwig_Göransson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ice Cold (Final Round)",
+      "artist": "Mike WiLL Made-It, Vince Staples & Ludwig Göransson",
+      "has_synced": true,
+      "path": "select/06_Ice_Cold_(Final_Round)_Mike_WiLL_Made-It,_Vince_Staples_&_Ludwig_Göransson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Final Round",
+      "artist": "Lé Real feat. Seiun & Kickflamez",
+      "has_synced": false,
+      "path": "select/07_Final_Round_Lé_Real_feat._Seiun_&_Kickflamez.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Final Round",
+      "artist": "Lé Real/seiun/Kickflamez",
+      "has_synced": false,
+      "path": "select/08_Final_Round_Lé_Real_seiun_Kickflamez.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Final Round",
+      "artist": "DownBeat Keys",
+      "has_synced": false,
+      "path": "select/09_Final_Round_DownBeat_Keys.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "K.O (Final Round)",
+      "artist": "Lil AK 100",
+      "has_synced": false,
+      "path": "select/10_K.O_(Final_Round)_Lil_AK_100.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Final Round (feat. YZERR, Bark, Benjazzy & Vingo)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/pl_01_Final_Round_(feat._YZERR,_Bark,_Benjazzy_&_Vingo)_BAD_HOP.txt"
+    }
+  ]
+}
